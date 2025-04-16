@@ -1,0 +1,2 @@
+primary color : 170,170,170
+secondary color : 85,85,85
